@@ -4,7 +4,7 @@
 
 - <https://www.mongodb.com/pricing/>
 
-## Setup
+## Setup //
 
 - <https://docs.atlas.mongodb.com/getting-started/>
 - <https://docs.mongodb.com/manual/installation/>
