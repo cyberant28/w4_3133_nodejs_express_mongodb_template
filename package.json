@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template.git"
+    "url": "git+https://github.com/cyberant28/w4_3133_nodejs_express_mongodb_template.git"
   },
   "keywords": [
     "mongoose",
@@ -18,12 +18,12 @@
     "REST",
     "API"
   ],
-  "author": "Pritesh Patel",
+  "author": "Gustavo Beltran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template/issues"
+    "url": "https://github.com/cyberant28/w4_3133_nodejs_express_mongodb_template/issues"
   },
-  "homepage": "https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template#readme",
+  "homepage": "https://github.com/cyberant28/w4_3133_nodejs_express_mongodb_template#readme",
   "dependencies": {
     "express": "^4.17.2",
     "mongoose": "^6.2.0"
